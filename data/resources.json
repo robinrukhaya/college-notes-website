@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Data Structures - Topper Handwritten Notes",
+    "subject": "Data Structures",
+    "branch": "CSE",
+    "semester": 3,
+    "type": "Notes",
+    "file": "assets/pdfs/notes/ds-topper.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Operating Systems - Complete Notes",
+    "subject": "Operating Systems",
+    "branch": "CSE",
+    "semester": 4,
+    "type": "Notes",
+    "file": "assets/pdfs/notes/os-notes.pdf"
+  },
+  {
+    "id": 3,
+    "title": "DBMS - Important Questions & Notes",
+    "subject": "DBMS",
+    "branch": "CSE",
+    "semester": 4,
+    "type": "Notes",
+    "file": "assets/pdfs/notes/dbms-notes.pdf"
+  },
+  {
+    "id": 4,
+    "title": "Mathematics - Topper Handwritten",
+    "subject": "Engineering Mathematics",
+    "branch": "All",
+    "semester": 1,
+    "type": "Notes",
+    "file": "assets/pdfs/notes/maths-topper.pdf"
+  },
+  {
+    "id": 5,
+    "title": "Computer Networks - Chapter-wise Notes",
+    "subject": "Computer Networks",
+    "branch": "CSE",
+    "semester": 5,
+    "type": "Notes",
+    "file": "assets/pdfs/notes/cn-notes.pdf"
+  },
+  {
+    "id": 6,
+    "title": "OOP with Java - Complete Notes",
+    "subject": "OOP",
+    "branch": "CSE",
+    "semester": 3,
+    "type": "Notes",
+    "file": "assets/pdfs/notes/oop-java.pdf"
+  },
+  {
+    "id": 7,
+    "title": "Digital Electronics - Topper Notes",
+    "subject": "Digital Electronics",
+    "branch": "ECE",
+    "semester": 2,
+    "type": "Notes",
+    "file": "assets/pdfs/notes/de-notes.pdf"
+  },
+  {
+    "id": 8,
+    "title": "Thermodynamics - Handwritten Notes",
+    "subject": "Thermodynamics",
+    "branch": "Mechanical",
+    "semester": 3,
+    "type": "Notes",
+    "file": "assets/pdfs/notes/thermo-notes.pdf"
+  },
+  {
+    "id": 9,
+    "title": "Data Structures - 2023 Exam Paper",
+    "subject": "Data Structures",
+    "branch": "CSE",
+    "semester": 3,
+    "type": "Paper",
+    "file": "assets/pdfs/papers/ds-2023.pdf"
+  },
+  {
+    "id": 10,
+    "title": "Operating Systems - 2022 Exam Paper",
+    "subject": "Operating Systems",
+    "branch": "CSE",
+    "semester": 4,
+    "type": "Paper",
+    "file": "assets/pdfs/papers/os-2022.pdf"
+  },
+  {
+    "id": 11,
+    "title": "DBMS - 2023 Exam Paper",
+    "subject": "DBMS",
+    "branch": "CSE",
+    "semester": 4,
+    "type": "Paper",
+    "file": "assets/pdfs/papers/dbms-2023.pdf"
+  },
+  {
+    "id": 12,
+    "title": "Mathematics - 2022 Exam Paper",
+    "subject": "Engineering Mathematics",
+    "branch": "All",
+    "semester": 1,
+    "type": "Paper",
+    "file": "assets/pdfs/papers/maths-2022.pdf"
+  },
+  {
+    "id": 13,
+    "title": "Computer Networks - 2023 Exam Paper",
+    "subject": "Computer Networks",
+    "branch": "CSE",
+    "semester": 5,
+    "type": "Paper",
+    "file": "assets/pdfs/papers/cn-2023.pdf"
+  },
+  {
+    "id": 14,
+    "title": "OOP with Java - 2022 Exam Paper",
+    "subject": "OOP",
+    "branch": "CSE",
+    "semester": 3,
+    "type": "Paper",
+    "file": "assets/pdfs/papers/oop-2022.pdf"
+  },
+  {
+    "id": 15,
+    "title": "Digital Electronics - 2023 Exam Paper",
+    "subject": "Digital Electronics",
+    "branch": "ECE",
+    "semester": 2,
+    "type": "Paper",
+    "file": "assets/pdfs/papers/de-2023.pdf"
+  }
+]
